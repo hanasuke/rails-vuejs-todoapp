@@ -7,14 +7,14 @@
   "components/contact.js.map": "/packs/components/contact-8e996495967f51b127b9.js.map",
   "components/header.js": "/packs/components/header-eb1214b0f854dcdfc43a.js",
   "components/header.js.map": "/packs/components/header-eb1214b0f854dcdfc43a.js.map",
-  "components/index.js": "/packs/components/index-47b1d057ddce9f1d3019.js",
-  "components/index.js.map": "/packs/components/index-47b1d057ddce9f1d3019.js.map",
+  "components/index.js": "/packs/components/index-c2dc22c8865e6bb26491.js",
+  "components/index.js.map": "/packs/components/index-c2dc22c8865e6bb26491.js.map",
   "hello_vue.css": "/packs/hello_vue-9cb5a7334a6577c3422968b9b9970b2f.css",
   "hello_vue.css.map": "/packs/hello_vue-9cb5a7334a6577c3422968b9b9970b2f.css.map",
   "hello_vue.js": "/packs/hello_vue-fed78bdd0b874f5e3640.js",
   "hello_vue.js.map": "/packs/hello_vue-fed78bdd0b874f5e3640.js.map",
-  "router/router.js": "/packs/router/router-ba698dfd56cf265b541e.js",
-  "router/router.js.map": "/packs/router/router-ba698dfd56cf265b541e.js.map",
-  "todo.js": "/packs/todo-5a4e693d550359293710.js",
-  "todo.js.map": "/packs/todo-5a4e693d550359293710.js.map"
+  "router/router.js": "/packs/router/router-2de03f4eea702278a5d5.js",
+  "router/router.js.map": "/packs/router/router-2de03f4eea702278a5d5.js.map",
+  "todo.js": "/packs/todo-a24cfd390ca3ef0088ba.js",
+  "todo.js.map": "/packs/todo-a24cfd390ca3ef0088ba.js.map"
 }
